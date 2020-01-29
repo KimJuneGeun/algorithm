@@ -15,7 +15,7 @@ int main()
         scanf("%d",&n);
         for(int x=1;x<=44;x++) {
             for(int y=1;y<=44;y++) {
-                for(int z=1;z<=44;z++) {
+              for(int z=1;z<=44;z++) {
                     if(n == tri[x]+tri[y]+tri[z]) {
                         chk=1;
                         x=44;y=44;z=44;
