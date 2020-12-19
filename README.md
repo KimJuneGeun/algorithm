@@ -1,2 +1,2 @@
 # algorithm
-baekjoon online judge practice
+baekjoon online judge 
